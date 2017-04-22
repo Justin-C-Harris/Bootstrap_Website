@@ -1,0 +1,21 @@
+.navbar-fixed-top li a {
+    line-height: 50px;
+}
+
+.navbar-fixed-bottom img {
+    max-height: 30px;
+}
+
+.navbar-fixed-bottom li a {
+    line-height: 30px;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
